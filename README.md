@@ -4,12 +4,12 @@ This repository contains scripts and analysis for the 2024 election results obta
 ## Repository Structure
 Election2024-DataAnalysis/
 ├── Data/
-│ └── election_results.csv # CSV file containing the scraped election data
+│ └── election_results.csv 
 ├── notebooks/
-│ ├── Election-Analysis.ipynb # Jupyter notebook with data analysis
-│ └── WebScrape.ipynb # Jupyter notebook for web scraping
-├── README.md # Project documentation
-└── requirements.txt # List of required Python packages
+│ ├── Election-Analysis.ipynb 
+│ └── WebScrape.ipynb 
+├── README.md 
+└── requirements.txt 
 
 ## Key Analysis Points
 1. **Top 10 Candidate and Constituecy with Highest Postal Impact**
