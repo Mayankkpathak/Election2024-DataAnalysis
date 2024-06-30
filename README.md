@@ -1,16 +1,6 @@
 # Election2024-DataAnalysis
 This repository contains scripts and analysis for the 2024 election results obtained from the [Election Commission of India](https://results.eci.gov.in).
 
-## Repository Structure
-Election2024-DataAnalysis/
-├── Data/
-│ └── election_results.csv 
-├── notebooks/
-│ ├── Election-Analysis.ipynb 
-│ └── WebScrape.ipynb 
-├── README.md 
-└── requirements.txt 
-
 ## Key Analysis Points
 1. **Top 10 Candidate and Constituecy with Highest Postal Impact**
 2. **State dominance by Party**
